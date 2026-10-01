@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+psutil
+rich
+numpy
+sounddevice
+faster-whisper
+piper-tts
