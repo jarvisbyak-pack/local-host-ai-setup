@@ -6,5 +6,9 @@ psutil
 rich
 numpy
 sounddevice
-faster-whisper
-piper-tts
+faster-whisper==1.2.1
+av==18.1.0
+piper-tts==1.8.0
+openwakeword==0.6.0
+pywin32==312
+pynput==1.8.2
