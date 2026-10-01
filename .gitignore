@@ -5,5 +5,6 @@ __pycache__/
 *.pyc
 .env
 *.log
-models/
+models/*
+!models/README.md
 .cache/
